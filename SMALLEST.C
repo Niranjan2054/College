@@ -11,6 +11,7 @@ void main(){
 			scanf("%d",(*(mat+i)+j));
 		}
 	}
+	printf("\n");
 	for(i=0;i<3;i++){
 		for(j=0;j<3;j++){
 			if(i>j){
@@ -24,7 +25,7 @@ void main(){
 		printf("\n");
 	}
 	small =matrix(ptr);
-	printf("\The smallest element is %d",small);
+	printf("\nThe smallest element is %d",small);
 	getch();
 }
 

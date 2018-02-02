@@ -7,8 +7,7 @@
     <li><a href="https://github.com/Niranjan2054/College/blob/master/sine.c">Sine series</a></li>
     <li><a href="https://github.com/Niranjan2054/College/blob/master/JUMP.C">Jumping Game</a></li>
     <li><a href="https://github.com/Niranjan2054/College/blob/master/COUNTWOR.C">Count no. of word</a></li>
-    <li><a href="https://github.com/Niranjan2054/College/blob/master/PATTERN.C">Pattern</a>
-    <img src="https://lh3.googleusercontent.com/T00tmQnws4HE9KAR_j5BXFvueft7WRyOpRx7NUrpebdQ9Eqnzo3IY8ykVbDhQHq81v9L8z3LyQ=w224-h437-no">
-    </li>
     <li><a href="https://github.com/Niranjan2054/College/blob/master/SMALLEST.C">Count no. of word</a></li>
+    <li><a href="https://github.com/Niranjan2054/College/blob/master/PATTERN.C">Pattern</a></li>
+    <img src="https://lh3.googleusercontent.com/T00tmQnws4HE9KAR_j5BXFvueft7WRyOpRx7NUrpebdQ9Eqnzo3IY8ykVbDhQHq81v9L8z3LyQ=w224-h437-no">
  </ul>

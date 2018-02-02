@@ -8,7 +8,7 @@ void main(){
 	gets(str);
 	count=0;
 	for(i=0;str[i]!='\0';i++){
-		if(str[i]==' '){
+		if(str[i]==' '||str[i]=='_'){
 			count++;
 		}else{
 			count =0;
@@ -17,7 +17,7 @@ void main(){
 			word++;
 		}
 	}
-	if(str[0]==' '){
+	if(str[0]==' '||str[i]=='_'){
 		word--;
 	}
 	printf("The number of word is %d",word);

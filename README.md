@@ -1,6 +1,6 @@
 # Khwopa Bird
 
-<p>Khwopa Bird, First Sem C Project, is game designed by Niranjan Bekoju, Sunil Banmala and Luja Shakya.</p>
+<p>Khwopa Bird, First Sem C Project, is game designed by Niranjan Bekoju, Sunil Banmala, Abhinav Aryal and Luja Shakya.</p>
 <h5>Instruction</h5>
 <p>Use Space key to flew the Bird<br>p for pause<br>Press Enter key to Continue..</p>
 
